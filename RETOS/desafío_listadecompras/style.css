@@ -1,0 +1,32 @@
+
+    * {box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    }
+    html {
+    font-size: 62.5%;
+    }
+    
+ main div {
+    border: 2px dotted;
+    border-radius: 10px;
+ }
+
+ .title-box{
+    background-color: red;
+    margin: auto;
+    position: relative;
+    width: 16rem;
+    top: 3rem;
+    text-align: center;
+    font-size: 1.6rem;
+    padding: 2rem;
+ }
+
+ .content-box {
+    background-color: gainsboro;
+    margin: auto;
+    font-size: 1.6rem;
+    padding: 4rem 4rem;
+    width: 50rem;
+ }
